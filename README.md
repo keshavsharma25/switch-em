@@ -1,4 +1,4 @@
-SwitchEm: Cross-Chain Token Bridge using ERC-7683 🔄
+# SwitchEm: Cross-Chain Token Bridge using ERC-7683 🔄
 
 A seamless cross-chain token bridge that leverages ERC-7683 (Cross Chain Intents) to enable effortless movement of ERC20 tokens across Layer 2 networks.
 
